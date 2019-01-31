@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Management">
+      <HintPath>..\..\..\..\Projects\SepidSystem\BioMiniAgent0\bin\Debug\netcoreapp3.0\System.Management.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
